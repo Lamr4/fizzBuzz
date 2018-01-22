@@ -1,0 +1,5 @@
+This program calculates the fizz/buzz stats for the first 100 integers.
+
+To run this program, you first need Python installed (3.x preferably).
+
+Download or clone this repository, change directory into the fizzBuzz folder, and run "fizzbuzz_main.py".
