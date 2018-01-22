@@ -12,6 +12,7 @@ def fizzbuzz(i):
     else:
         return normal
 def main():
+    print('Fizzbuzz for first 100 numbers:')
     for i in range(0,101):
         print("{} is a {}".format(i, fizzbuzz(i)))
 
